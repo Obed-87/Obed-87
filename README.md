@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Obed-87
-- 👀 I’m interested in earn every day
+- 👀 I’m interested in learn every day
 - 🌱 I’m currently learning JavaScript && php
 - 💞️ I’m looking to collaborate on what I know
 - 📫 How to reach me ...
